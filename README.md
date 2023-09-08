@@ -1,3 +1,6 @@
+Hi, I'm Binh! I'm a 4th year student of Ho Chi Minh City University of Technology & Education, majoring in Mechatronics Engineering Technology. I take pleasure in working with coding language, especially embedded & IoT system. 
+
+Here is my GitHub. Hope we can share our passion 😊!!!
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/binhphan122.ct/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/phan-le-thanh-binh-122ct/) 
